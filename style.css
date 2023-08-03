@@ -18,9 +18,11 @@ nav li {
     list-style: none;
     margin-left: 50px;
     align-items: center;
+    
 }
 nav ul {
     display: flex;
+    align-items: center;
 }
 .nav-title{
     font-weight: 800;
@@ -39,6 +41,16 @@ nav ul {
     padding: 18px 35px;
     margin-top: 20px;
     
+}
+.btn-primary-contact{
+    height: 64px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 17px;
+    border: 0;
+    padding: 18px 35px;
+    margin-top: 20px;
+    background-color: rgb(97, 227, 97);
 }
 
 /* }banner styles */
